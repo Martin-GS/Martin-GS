@@ -1,9 +1,9 @@
-# 👋 Hello / Bonjour / Hola
+# Martin GS
 
-## 💻 Martin-GS - Front-End developper
+🇬🇧 Front-End Developer 🇫🇷 Développeur Front-End 🇪🇸 Desarrollador Front-End
 
-### 👷🏻‍♂️ Soon... work in progress !
+> Building user interfaces of interactive and responsive websites and mobile apps. Using HTML, CSS, JavaScript, React, NodeJS and web technologies
 
-#### 👨🏻‍🎓 LearningToCode
+![skills](../Martin-GS/images/skills.png)
 
-##### 🧰 HTML/CSS, JavaScript, TypeScript, React/Redux, CSS frameworks (bootstrap, Bulma...), NodeJS/Express, etc ✨
+👷🏻‍♂️ __Work in progress !__ 👨🏻‍🎓 __#LearningToCode__ ✨ HTML/CSS, JavaScript, TypeScript, React/Redux, NodeJS/Express, Bootstrap, Bulma, Netlify, Surge, Vercel, Git, GitHub, WordPress and more !
