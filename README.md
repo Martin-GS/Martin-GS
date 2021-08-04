@@ -2,7 +2,7 @@
 
 #### 🇬🇧 Full Stack JavaScript Developer 🇫🇷 Développeur Full Stack JavaScript 🇪🇸 Desarrollador Full Stack JavaScript
 
-Building user interfaces of interactive and responsive websites and mobile apps. Using HTML, CSS, JavaScript, React, NodeJS and more.
+Building user interfaces of interactive and responsive websites and mobile apps. Using HTML, CSS, JavaScript, React, Redux, NodeJS, Express and more.
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
