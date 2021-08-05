@@ -1,8 +1,8 @@
 # Martin GS
 
-#### 🇬🇧 Full Stack JavaScript Developer 🇫🇷 Développeur Full Stack JavaScript 🇪🇸 Desarrollador Full Stack JavaScript
+#### 🇬🇧 Front-End Developer 🇫🇷 Développeur Front-End 🇪🇸 Desarrollador Front-End
 
-Building user interfaces of interactive and responsive websites and mobile apps. Using HTML, CSS, JavaScript, React, Redux, NodeJS, Express and more.
+Building user interfaces of interactive and responsive websites and mobile apps.
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
