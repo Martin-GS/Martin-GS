@@ -1,6 +1,6 @@
 # Martin GS
 
-#### 🇬🇧 Full-Stack JavaScript Developer 🇫🇷 Développeur Full-Stack JavaScript 🇪🇸 Desarrollador Full-Stack JavaScript
+#### 🇬🇧 Fonrt-End Developer 🇫🇷 Développeur Fonrt-End 🇪🇸 Desarrollador Fonrt-End
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
