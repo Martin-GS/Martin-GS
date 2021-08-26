@@ -2,7 +2,7 @@
 
 #### 🇬🇧 Full-Stack JavaScript Developer  
 #### 🇫🇷 Développeur Full-Stack JavaScript  
-#### 🇪🇸 Desarrollador Fonrt-End Full-Stack
+#### 🇪🇸 Desarrollador Full-Stack JavaScript
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
