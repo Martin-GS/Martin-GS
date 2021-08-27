@@ -1,8 +1,8 @@
 ### Martin GS
 
-🇬🇧 __Full-Stack JavaScript Developer__  
-🇫🇷 __Développeur Full-Stack JavaScript__  
-🇪🇸 __Desarrollador Full-Stack JavaScript__
+🇬🇧 __Full Stack JavaScript Developer__  
+🇫🇷 __Développeur Full Stack JavaScript__  
+🇪🇸 __Desarrollador Full Stack JavaScript__
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
