@@ -1,8 +1,8 @@
 ### Martin-GS
 
-🇬🇧 __Front-End Developer__  
-🇫🇷 __Développeur Front-End__  
-🇪🇸 __Desarrollador Front-End__
+🇬🇧 __Javascript Engineer__ / __FullStack JavaScript Developer__  
+🇫🇷 __Javascript Engineer__ / __Développeur JavaScipt FullStack__  
+🇪🇸 __Javascript Engineer__ / __Desarrollador JavaScipt FullStack__  
 
 ![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
 
