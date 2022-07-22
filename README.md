@@ -1,18 +1,18 @@
 # 👋 `<HelloWorld />`
 
-🙋🏻‍♂️ I'm [Martin GS](https://martin.gs)
+🙋🏻‍♂️ I'm [Martin GS](https://martin.gs),
 
-🌎 ( _Franco-Belgian-Argentinian_ )
+🌎 a _Franco-Belgian-Argentinian_
 
-🏖️ from French Riviera (_Côte d'Azur_)
+🏖️ from French Riviera (_Côte d'Azur_).
 
-👨‍💻 I'm a **FullStack JavaScript Developer**
+👨‍💻 I'm a **FullStack JavaScript Developer**,
 
-🚀 Passionate by **Front-End** stuff
+🚀 passionate by **Front-End** stuff
 
-⚛️ And specialised in **React**.js
+⚛️ and specialised in **React**.
 
-💼 [LinkedIn profile](https://www.linkedin.com/in/martings/) 
+💼 [LinkedIn profile](https://www.linkedin.com/in/martings/)
 
 🎯 Skills : 
 
