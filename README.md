@@ -1,10 +1,5 @@
 # 👋 `<HelloWorld />`
 
-## `FullStack Developer & Front-End Enthusiast`
-
-----
-
-
 🙋🏻‍♂️ I'm [Martin GS](https://martin.gs)
 
 🌎 ( _Franco-Belgian-Argentinian_ )
