@@ -1,9 +1,24 @@
-## Martin GS
+# 👋 `<HelloWorld />`
 
-### 🟨 JavaScript Enthusiast  
+## `FullStack Developer & Front-End Enthusiast`
 
-🇬🇧 __FullStack JavaScript Developer__  
-🇫🇷 __Développeur FullStack JavaScipt__  
-🇪🇸 __Desarrollador FullStack JavaScipt__  
+----
 
-![skills](https://github.com/Martin-GS/Martin-GS/blob/main/images/skills.png)
+
+🙋🏻‍♂️ I'm [Martin GS](https://martin.gs)
+
+🌎 ( _Franco-Belgian-Argentinian_ )
+
+🏖️ from French Riviera (_Côte d'Azur_)
+
+👨‍💻 I'm a **FullStack JavaScript Developer**
+
+🚀 Passionate by **Front-End** stuff
+
+⚛️ And specialised in **React**.js
+
+💼 [LinkedIn profile](https://www.linkedin.com/in/martings/) 
+
+🎯 Skills : 
+
+![skills](/images/skills_martin_gs.svg)
