@@ -2,13 +2,13 @@
 
 🙋🏻‍♂️ I'm __Martin__,
 
-🌎 from French Riviera (_Côte d'Azur_).
+🇫🇷 from French Riviera (_Côte d'Azur_).
 
 👨‍💻 I'm a **FullStack JavaScript Developer**,
 
-🚀 passionate by **Front-End** stuff
+🟨 **JavaScript** Enthusiast
 
-⚛️ and specialised in **React**.
+⚛️ and specialized in **React**.
 
 🔗 Portfolio : [martin.gs](https://martin.gs)
 
