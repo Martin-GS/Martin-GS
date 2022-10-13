@@ -2,4 +2,6 @@
 
 I'm __Martin__, from French Riviera (_Côte d'Azur_).
 
-I'm a **Front-End Developer**, **JavaScript** Enthusiast and specialized in **React**.
+I'm a **Front-End Developer**, **JavaScript** Enthusiast, specialized in **React.js**.
+
+![stack](./images/skills_martin_gs.svg)
