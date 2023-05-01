@@ -1,9 +1,11 @@
-`<Hello />` 👋
+# `<Hello />` 👋
 
-I'm __Martin__, from French Riviera (_Côte d'Azur_).
+✅ I'm __Martin__
 
-I'm a **Front-End Developer** & **JavaScript** Enthusiast.
+📌 from French Riviera (_Côte d'Azur_).
 
-Stack :
+🚀 I'm a **Front-End Developer**,
 
-![stack](./images/skills_martin_gs.svg)
+🟨 a **JavaScript** Enthusiast
+
+⚛️ specialized in React.
