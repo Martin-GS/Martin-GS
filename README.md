@@ -1,16 +1,14 @@
-# `<Hello />` 👋
+# `<Hello />`
 
-✅ I'm __Martin__
+👋 I'm __Martin__
 
 📌 from French Riviera (_Côte d'Azur_).
 
-🚀 I'm a **Front-End Developer**,
-
-🟨 a **JavaScript** Enthusiast
+🟡 I'm a **Front-End Developer**
 
 ⚛️ specialized in React.
 
 ---
 
-🔗 Portfolio : [martin-gs.github.io](https://martin-gs.github.io/)
+🔗 Portfolio : [martin-gs.vercel.app](https://martin-gs.vercel.app)
 
