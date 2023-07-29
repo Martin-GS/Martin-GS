@@ -1,10 +1,6 @@
 ![header image](./images/background-top.png)
 
-👋  `<Hello />`
-
-I'm __Martin__ from French Riviera (_Côte d'Azur_).
-
-I'm a **Front-End Developer** specialized in React.
+Front-End Developer. |  React.js & Vue.js. |  GNU/Linux  |  Open Source & Libre Software  |  From french riviera
 
 🔗 Portfolio : [martin-gs](https://martin-gs.vercel.app)
 
