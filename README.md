@@ -1,6 +1,6 @@
 ![header image](./images/background-top.png)
 
-Front-End Developer |  React.js & Vue.js |  GNU/Linux  |  Open Source & Libre Software
+Front-End Developer  |  React & Vue.js specialist  |  Linux user  |  Open Source contributor  |  Mate lover  |  From french riviera
 
 🔗 Portfolio : [martin-gs](https://martin-gs.vercel.app)
 
