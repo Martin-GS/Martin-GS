@@ -1,5 +1,5 @@
 ![header image](./images/background-top.png)
 
-FullStack Developer 🟨 Front-End specialist 🎯 React and Vue.js enthusiast 🐧 Linux user ⭕ Open Source
+#FullStack Developer 🛡️ #Cybersecurity and Privacy 🐧 #ArchLinux and #Debian user  ⭕ #OpenSource enthusiast
 
 ![footer image](./images/background-bottom.png)
